@@ -23,15 +23,12 @@ We propose the NASGW approach that leverages the one-shot NAS method to automati
 
 # Architecture Search & Testing
 
-## One-shot Search
-> We're living the future so
-> the present is our past.
+### One-shot Search
+`python one_shot_search.py --tmp_data_dir ./search_data --save log_path` 
 
-## Train Best Architecture
-> We're living the future so
-> the present is our past.
+### Train Best Architecture
+`python train_arch.py  --tmp_data_dir ./train_data --save log_path --auxiliary --note note_of_this_run` 
 
-## Test Model
-I think you should use an
-`<addr>` element here instead.
+### Test Model
+`python test_model.py` 
 
