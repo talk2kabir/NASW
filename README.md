@@ -32,7 +32,6 @@ We propose the NASGW approach that leverages the one-shot NAS method to automati
 > the present is our past.
 
 ## Test Model
-> We're living the future so
-> the present is our past.
-
+I think you should use an
+`<addr>` element here instead.
 
