@@ -18,3 +18,5 @@ We propose the NASGW approach that leverages the one-shot NAS method to automati
 2. We propose a one-shot model. 
 3. We train the one-shot mode to search and predict the performance of the candidate architectures based on the validation accuracy. Select the best performing architecture from the list of candidate architectures.
 4. We train the best architecture from scratch to obtain the trained classification model. 
+
+![Fig. 6](https://github.com/talk2kabir/NASGW/blob/main/NASGW.PNG)
