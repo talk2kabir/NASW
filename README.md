@@ -5,6 +5,9 @@ Graphical User Interface (GUI) widget classification is gaining much attention i
 
 # Resource
 Paper [Journal](#)
+
 Trained Models [Dropbox](#)
+
 Original Dataset [Dropbox](#)
+
 Standard Dataset [Dropbox](#)
