@@ -10,7 +10,7 @@ Trained Models [GoogleDrive](#)
 
 Original Dataset [Zenodo](https://zenodo.org/record/2530277#.YWgqL0lfiUl)
 
-Standard Dataset [Dropbox](#)
+Standard Dataset [Dropbox](https://www.dropbox.com/sh/dqy52o900ijyxz2/AAAslJzQ2slZqpQzI7ZRI6tia?dl=0)
 
 # Approach 
 We propose the NASGW approach that leverages the one-shot NAS method to automatically search for an optimal architecture for GUI widgets classification. The overview of the NASGW approach can be seen in Fig. 6:
