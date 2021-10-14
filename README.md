@@ -20,3 +20,19 @@ We propose the NASGW approach that leverages the one-shot NAS method to automati
 4. We train the best architecture from scratch to obtain the trained classification model. 
 
 ![Fig. 6](https://github.com/talk2kabir/NASGW/blob/main/NASGW.PNG)
+
+# Architecture Search & Testing
+
+## One-shot Search
+> We're living the future so
+> the present is our past.
+
+## Train Best Architecture
+> We're living the future so
+> the present is our past.
+
+## Test Model
+> We're living the future so
+> the present is our past.
+
+
