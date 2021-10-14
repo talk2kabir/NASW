@@ -6,9 +6,9 @@ Graphical User Interface (GUI) widget classification is gaining much attention i
 # Resource
 Paper [Journal](#)
 
-Trained Models [Dropbox](#)
+Trained Models [GoogleDrive](#)
 
-Original Dataset [Dropbox](#)
+Original Dataset [Zenodo](https://zenodo.org/record/2530277#.YWgqL0lfiUl)
 
 Standard Dataset [Dropbox](#)
 
