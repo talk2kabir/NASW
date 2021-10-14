@@ -1,0 +1,5 @@
+python one_shot_search.py --tmp_data_dir ./search_data --save log_path 
+
+python train_arch.py  --tmp_data_dir ./train_data --save log_path --auxiliary --note note_of_this_run
+
+python test_model.py 
