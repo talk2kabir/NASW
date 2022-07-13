@@ -6,7 +6,7 @@
 # Supporting Documents
 Paper [Journal](#)
 
-Documents [Supporting Files](#)
+Documents [Supporting Files](https://github.com/talk2kabir/NASW/tree/main/Documents)
 
 Trained Models [GoogleDrive](https://drive.google.com/file/d/1tVqJ_buFrI_r2tKYY6LMvWdxGPjmmvra/view?usp=sharing)
 
