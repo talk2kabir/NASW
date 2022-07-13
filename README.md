@@ -3,8 +3,10 @@
  
  This repository contains the description of the NASW approach as well as the dataset and trained models. 
 
-# Resource
+# Supporting Documents
 Paper [Journal](#)
+
+Documents [Supporting Files](#)
 
 Trained Models [GoogleDrive](https://drive.google.com/file/d/1tVqJ_buFrI_r2tKYY6LMvWdxGPjmmvra/view?usp=sharing)
 
